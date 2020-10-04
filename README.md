@@ -1,14 +1,14 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95024321-2b0a5f00-0637-11eb-9e94-0b1415162651.png">
   <br />
-  C/C++ Guide
+  C++ Guide
 </h1>
 
-#### A guide covering C/C++ programming language including the applications and tools that will make you a better and more efficient C/C++ developer.
+#### A guide covering C++ programming language including the applications and tools that will make you a better and more efficient C/C++ developer.
 
 ## Resources
 
-[C/C++](https://www.cplusplus.com/doc/tutorial/) is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.
+[C++](https://www.cplusplus.com/doc/tutorial/) is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.
 
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
 
