@@ -1,16 +1,32 @@
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/95024321-2b0a5f00-0637-11eb-9e94-0b1415162651.png">
   <br />
-  C++ Guide
+  C/C++ Guide
 </h1>
 
-#### A guide covering C++ programming language including the applications and tools that will make you a better and more efficient C/C++ developer.
+#### A guide covering C/C++ programming languages including the applications and tools that will make you a better and more efficient C/C++ developer.
 
-## Resources
+## C/C++ Learning Resources
 
 [C++](https://www.cplusplus.com/doc/tutorial/) is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.
 
+[C](https://www.iso.org/standard/74528.html) is a general-purpose, high-level language that was originally developed by Dennis M. Ritchie to develop the UNIX operating system at Bell Labs. It supports structured programming, lexical variable scope, and recursion, with a static type system. C also provides constructs that map efficiently to typical machine instructions, which makes it one was of the most widely used programming languages today.
+
+[Embedded C](https://en.wikipedia.org/wiki/Embedded_C) is a set of language extensions for the C programming language by the [C Standards Committee](https://isocpp.org/std/the-committee) to address issues that exist between C extensions for different [embedded systems](https://en.wikipedia.org/wiki/Embedded_system). The extensions hep enhance microprocessor features such as fixed-point arithmetic, multiple distinct memory banks, and basic I/O operations. This makes Embedded C the most popular embedded software language in the world.
+
+[C & C++ Developer Tools from JetBrains](https://www.jetbrains.com/cpp/)
+
+[Open source C++ libraries on cppreference.com](https://en.cppreference.com/w/cpp/links/libs)
+
+[C++ Graphics libraries](https://cpp.libhunt.com/libs/graphics)
+
+[C++ Libraries in MATLAB](https://www.mathworks.com/help/matlab/call-cpp-library-functions.html)
+
+[C++ Tools and Libraries Articles](https://www.cplusplus.com/articles/tools/)
+
 [Google C++ Style Guide](https://google.github.io/styleguide/cppguide.html)
+
+[Introduction C++ Education course on Google Developers](https://developers.google.com/edu/c++/)
 
 [C++ style guide for Fuchsia](https://fuchsia.dev/fuchsia-src/development/languages/c-cpp/cpp-style)
 
@@ -22,13 +38,44 @@
 
 [C++ Style Guide for ROS](http://wiki.ros.org/CppStyleGuide)
 
-[Learn C Programming Online Courses by edX](https://www.edx.org/learn/c-programming)
+[Learn C++](https://www.learncpp.com/)
 
-[Learn C++ with Online Courses by edX](https://www.edx.org/learn/c-plus-plus)
+[Learn C : An Interactive C Tutorial](https://www.learn-c.org/)
 
-[Learn C++ by Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
+[C++ Institute](https://cppinstitute.org/free-c-and-c-courses)
 
-[C++ For C Programmers by Coursera](https://www.coursera.org/learn/c-plus-plus-a)
+[C++ Online Training Courses on LinkedIn Learning](https://www.linkedin.com/learning/topics/c-plus-plus)
+
+[C++ Tutorials on W3Schools](https://www.w3schools.com/cpp/default.asp)
+
+[Learn C Programming Online Courses on edX](https://www.edx.org/learn/c-programming)
+
+[Learn C++ with Online Courses on edX](https://www.edx.org/learn/c-plus-plus)
+
+[Learn C++ on Codecademy](https://www.codecademy.com/learn/learn-c-plus-plus)
+
+[Coding for Everyone: C and C++ course on Coursera](https://www.coursera.org/specializations/coding-for-everyone)
+
+[C++ For C Programmers on Coursera](https://www.coursera.org/learn/c-plus-plus-a)
+
+[Top C Courses on Coursera](https://www.coursera.org/courses?query=c%20programming)
+
+[C++ Online Courses on Udemy](https://www.udemy.com/topic/c-plus-plus/)
+
+[Top C Courses on Udemy](https://www.udemy.com/topic/c-programming/)
+
+[Basics of Embedded C Programming for Beginners on Udemy](https://www.udemy.com/course/embedded-c-programming-for-embedded-systems/)
+
+[C++ For Programmers Course on Udacity](https://www.udacity.com/course/c-for-programmers--ud210)
+
+[C++ Fundamentals Course on Pluralsight](https://www.pluralsight.com/courses/learn-program-cplusplus)
+
+[Introduction to C++ on MIT Free Online Course Materials](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-096-introduction-to-c-january-iap-2011/)
+
+[Introduction to C++ for Programmers | Harvard ](https://online-learning.harvard.edu/course/introduction-c-programmers)
+
+[Online C Courses | Harvard University](https://online-learning.harvard.edu/subject/c)
+
 
 ## Tools
 
