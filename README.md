@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/95024321-2b0a5f00-0637-11eb-9e94-0b1415162651.png">
+ <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
   <br />
   C/C++ Guide
 </h1>
