@@ -6,7 +6,14 @@
 
 #### A guide covering C/C++ programming languages including the applications and tools that will make you a better and more efficient C/C++ developer.
 
-## C/C++ Learning Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+ 
+ <p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/119279001-d58ebc80-bbdd-11eb-8e27-6a1a272e2a5e.png">
+  <br />
+</p>
+
+# C/C++ Learning Resources
 
 [C++](https://www.cplusplus.com/doc/tutorial/) is a cross-platform language that can be used to build high-performance applications developed by Bjarne Stroustrup, as an extension to the C language.
 
@@ -77,7 +84,7 @@
 [Online C Courses | Harvard University](https://online-learning.harvard.edu/subject/c)
 
 
-## C/C++ Tools
+# C/C++ Tools, Libraries and Frameworks
 
 [AWS SDK for C++](https://aws.amazon.com/sdk-for-cpp/)
 
@@ -146,3 +153,12 @@
 [Spdlog](https://github.com/gabime/spdlog) is a very fast, header-only/compiled, C++ logging library. 
 
 [Infer](https://fbinfer.com/) is a static analysis tool for Java, C++, Objective-C, and C. Infer is written in [OCaml](https://ocaml.org/).
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/CPP-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
