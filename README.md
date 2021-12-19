@@ -1,5 +1,5 @@
 <h1 align="center">
- <img src="https://user-images.githubusercontent.com/45159366/115297894-961e0d80-a111-11eb-81c3-e2bd2ac9a7cd.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692545-d11fea7b-255f-4698-9e69-1967818522bd.png">
   <br />
   C/C++ Guide
 </h1>
@@ -9,7 +9,7 @@
 **Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
  
  <p align="center">
- <img src="https://user-images.githubusercontent.com/45159366/119279001-d58ebc80-bbdd-11eb-8e27-6a1a272e2a5e.png">
+ <img src="https://user-images.githubusercontent.com/45159366/146692546-fc4f3e88-5716-4d9b-a643-9efa4225a982.png">
   <br />
 </p>
 
